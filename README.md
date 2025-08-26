@@ -41,7 +41,7 @@ python -m venv venv
 ```
 
 # For Windows:
-.\venv\Scripts\activate
+# .\venv\Scripts\activate
 # For macOS/Linux:
 # source venv/bin/activate
 3. Install Python Libraries
@@ -89,4 +89,5 @@ The application will be accessible at http://127.0.0.1:5000.
 
 ## Contributors
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
 
