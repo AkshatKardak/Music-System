@@ -42,9 +42,15 @@ python -m venv venv
 
 # For Windows:
 # .\venv\Scripts\activate
+
+---
+
 # For macOS/Linux:
 # source venv/bin/activate
-3. Install Python Libraries
+
+---
+
+## Install Python Libraries
 - Install Flask and the MySQL connector within your activated virtual environment.
 
 ```sh
@@ -89,5 +95,6 @@ The application will be accessible at http://127.0.0.1:5000.
 
 ## Contributors
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
 
 
