@@ -65,10 +65,10 @@ pip install Flask Flask-MySQLdb
 
 # app.py
 ...
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'your_mysql_password' # <-- Replace with your password
-app.config['MYSQL_DB'] = 'music_system'
+- app.config['MYSQL_HOST'] = 'localhost'
+- app.config['MYSQL_USER'] = 'root'
+- app.config['MYSQL_PASSWORD'] = 'your_mysql_password' # <-- Replace with your password
+- app.config['MYSQL_DB'] = 'music_system'
 ...
 
 ---
@@ -95,6 +95,7 @@ The application will be accessible at http://127.0.0.1:5000.
 
 ## Contributors
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
 
 
 
